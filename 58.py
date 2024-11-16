@@ -1,0 +1,86 @@
+number =[]
+num = int(input('how many numbers:' ))
+for n in range(num):
+    x =int(input('enter number: '))
+    number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .append(x)
+    print("sum of number in list: ", x)
